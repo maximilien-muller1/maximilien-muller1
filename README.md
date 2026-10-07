@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Maximilien
 
-<!--
-**maximilien-muller1/maximilien-muller1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th-year engineering student in **Data Science & AI** at **ESIEE Paris**,
+looking for a **4-month data scientist internship (May–Aug 2027)**.
 
-Here are some ideas to get you started:
+## What I work on
+- Computer vision and deep learning
+- Machine learning on tabular and time-series data
+- Data engineering fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[smiling-or-not-cnn](https://github.com/maximilien-muller1/smiling-or-not-cnn)** — CNN trained from scratch, 94–96 % validation accuracy
+- **Veesion** — assistive navigation system for visually impaired people (Jury Prize, Future Engineering Award 2026)
+
+## Tech
+Python · SQL · Pandas · NumPy · scikit-learn · TensorFlow / Keras · YOLO · Git · Linux
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/maximilien-muller14042005)
