@@ -1,7 +1,7 @@
 # Hi, I'm Maximilien
 
 I build machine learning projects in **computer vision** and **data science**.
-Currently looking for a 4-month data scientist internship (May–Aug 2027).
+Currently looking for a 4-month internship (May–Aug 2027).
 
 ## Projects
 - **[smiling-or-not-cnn](https://github.com/maximilien-muller1/smiling-or-not-cnn)** — CNN trained from scratch, 94–96 % validation accuracy
